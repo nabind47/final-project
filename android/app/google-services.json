@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "683293340",
+    "project_id": "final-project-f2b02",
+    "storage_bucket": "final-project-f2b02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683293340:android:34c188d72e91a639134b59",
+        "android_client_info": {
+          "package_name": "np.edu.ncit.final_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsUamuWKq56KXbu9xt0VHW61qGOrH8uFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

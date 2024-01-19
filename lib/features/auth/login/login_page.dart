@@ -1,3 +1,4 @@
+import 'package:final_project/features/auth/login/login_controller.dart';
 import 'package:flutter/material.dart';
 
 class LoginPage extends StatelessWidget {
@@ -48,7 +49,9 @@ class LoginPage extends StatelessWidget {
             Row(
               children: [
                 ElevatedButton(
-                  onPressed: () {},
+                  onPressed: () {
+                    LoginController.signInWithGoogle(context);
+                  },
                   child: const Text('Sign in with Google'),
                 ),
               ],
