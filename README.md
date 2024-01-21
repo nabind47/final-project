@@ -26,3 +26,9 @@ flutter pub add google_sign_in
 ```sh
 flutter pub add firebase_auth
 ```
+
+```sh
+keytool -list -v -alias androiddebugkey -keystore C:\Users\NITRO5\.android\debug.keystore
+```
+
+> `C:\Program Files\Java\jdk-17` in path cmd and password is `android`
